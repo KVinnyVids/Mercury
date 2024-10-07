@@ -1,4 +1,12 @@
+body{
+	text-align:center;
+}
 p{
 	background-color:lightblue;
 	color:black;
+}
+div{
+	margin:auto;
+	background:red;
+	color:white;
 }
